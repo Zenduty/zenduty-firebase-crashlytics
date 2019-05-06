@@ -15,7 +15,7 @@ The Zendutuy Google Firebase Crashlytics integrations lets you receive real-time
 	- Configure the CLI locally by using `firebase use --add` and select your project in the list.
 	- Install `npm` dependencies in the functions directory locally, by running: `cd functions; npm install;`
   
-- #### Getting the zenduty API Key
+- #### Getting the Zenduty API Key
 	- Go to your Zenduty account, and in your service, add the Firebase Crashlytics integration
 	- Copy the Integration URL
 	- Config and set the environment variable for the access token and the GitHub repo (in which the new issues will be generated) by running this command: 
